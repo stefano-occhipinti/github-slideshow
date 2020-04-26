@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your test
-Ude the left arrow to go back!
+[](https://ruinmyweek.com/wp-content/uploads/2016/05/really-funny-memes-y-u-no-guy-text-back.jpg)
+Use the left arrow to go back!
